@@ -1,13 +1,13 @@
-![logo](https://github.com/Puneetpotter/Puneetpotter/blob/main/Puneet_github.png)
-<h1 align="center">Hi 👋, I'm Puneet Kumar Rai</h1>
+![logo](https://github.com/puneetrai07/puneetrai07/blob/main/Puneet_github.png)
+<h1 align="center">Hi 👋, I'm Puneet Rai</h1>
 <h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetpotter&label=Profile%20views&color=0e75b6&style=flat" alt="puneetpotter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetrai07&label=Profile%20views&color=0e75b6&style=flat" alt="puneetrai07" /> </p>
 
-- I'm currently working on **Data Visualization**
+- I'm currently working on **Software Development**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **Software Development**
 
 - 💬 Ask me about **C, C++ and DSA**
 
@@ -30,19 +30,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://github.com/puneetpotter/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetpotter&layout=compact&theme=monokai&row=1&column=7" alt="puneetpotter" /></a> </p>
+<p align="left"> <a href="https://github.com/puneetrai07/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetrai07&layout=compact&theme=monokai&row=1&column=7" alt="puneetrai07" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetpotter&show_icons=true&locale=en&layout=compact&theme=monokai" alt="puneetpotter" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetrai07&show_icons=true&locale=en&layout=compact&theme=monokai" alt="puneetrai07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetpotter&show_icons=true&locale=en&theme=monokai" alt="puneetpotter" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetrai07&show_icons=true&locale=en&theme=monokai" alt="puneetrai07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetpotter&theme=monokai" alt="puneetpotter" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetrai07&theme=monokai" alt="puneetrai07" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puneetrai07/puneetrai07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puneetrai07/puneetrai07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puneetrai07/puneetrai07/output/github-contribution-grid-snake.svg">
 </picture>
 
 <samp>

@@ -1,17 +1,19 @@
 ![logo](https://github.com/puneetrai07/puneetrai07/blob/main/Puneet_github.png)
 <h1 align="center">Hi 👋, I'm Puneet Rai</h1>
-<h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
+<h3 align="center">💼 Backend Software Engineer with experience building scalable financial systems</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetrai07&label=Profile%20views&color=0e75b6&style=flat" alt="puneetrai07" /> </p>
 
-- I'm currently working on **Software Development**
+- 🏢 Previously worked at **Bank of New York (BNY)** on Banking-as-a-Service (BaaS)
 
-- 🌱 I’m currently learning **Software Development**
+- 🚀 Built systems handling 10M+ financial events annually with high reliability
 
-- 💬 Ask me about **C, C++ and DSA**
-
-- ⚡ Fun fact **I am a Potterhead!**
+- 🌱 Strong in **Java, Spring Boot, Microservices & Distributed Systems**
+  
+- 💬 Ask me about **Backend Development, System Design, and DSA**
+  
+-⚡ Fun fact, **I am a Potterhead!**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <h3 align="left">Connect with me:</h3>

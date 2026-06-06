@@ -1,11 +1,13 @@
 ![logo](https://github.com/puneetrai07/puneetrai07/blob/main/Puneet_github.png)
 <h1 align="center">Hi 👋, I'm Puneet Rai</h1>
-<h3 align="center">💼 Backend Software Engineer | Java | Spring Boot | Microservices | Distributed Systems</h3>
+<h3 align="center">💼 Backend Software Engineer | Java | Spring Boot | Microservices | Distributed Systems | TCS | Ex-BNY </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetrai07&label=Profile%20views&color=0e75b6&style=flat" alt="puneetrai07" /> </p>
 
-- 💼 Backend Software Engineer with experience building scalable financial systems  
+- 💼 Backend Software Engineer with experience building scalable financial systems
+
+- 🏢 Currently working as a Developer at **TCS**
 
 - 🏢 Previously worked at **Bank of New York (BNY)** on Banking-as-a-Service (BaaS)  
 
@@ -13,7 +15,7 @@
 
 - 🌱 Strong in **Java, Spring Boot, Microservices & Distributed Systems**  
 
-- 💬 Ask me about **Backend Development, System Design and DSA**  
+- 💬 Ask me about **Backend Development, System Design, and DSA**  
 
 - ⚡ Fun fact **I am a Potterhead!**  
 
